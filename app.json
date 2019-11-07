@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Bandex",
-    "description": "Band index on your phone.  Bands get their own app to market their music and gigs and interact with fans. Users can find local bands, gigs and music.",
+    "description": "",
     "slug": "bandex",
     "privacy": "public",
     "sdkVersion": "35.0.0",
